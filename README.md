@@ -1,5 +1,5 @@
 # tensor_regression_granger-causality
-Tensor regression for whole brain connectivity
+Tensor regression for whole brain connectivity with penalization on tensor components.
 
 This code solves the problem:
 
